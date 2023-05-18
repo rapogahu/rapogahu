@@ -5,6 +5,6 @@
 
 </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on churn analysis project
 - 🌱 I’m currently learning data engineering course at sberuniversity
 - 📫 How to reach me: tg: @rap0gahu email: sadikovskaya.ev@gmail.com
